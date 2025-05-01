@@ -1,5 +1,4 @@
 # EXPRESSO: Fuel Your Thoughts : BOLD, STRONG AND UNFILTERED
-#### Video Demo:  <https://youtu.be/oB2fwCkjmPM>
 #### Description:
 
 Hey Everyone! Madhav Here From Delhi, India. I am currently pursuing B.Tech. in Electronics Field From MAIT, DELHI.
