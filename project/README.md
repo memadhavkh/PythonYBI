@@ -40,7 +40,7 @@ Dependencies of Flask:-
 5. flask
 6. werkzeug.security
 
-# To Run This , import the folder into your local workspace and run "python app.py" command in terminal. Go to the server port to experience my creation. Make sure you had installed all dependencies mentioned in this file.
+# To Run This , import the folder into your local workspace and navigate to the project directory, then run "python app.py" command in terminal. Go to the server port to experience my creation. Make sure you had installed all dependencies mentioned in this file.
 
 
 This is basically my first web app which I am uploading on github. 
